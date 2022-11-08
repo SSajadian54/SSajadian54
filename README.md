@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SSajadian54
-- 👀 I’m interested in astrophysics in general, especially observational issues and subjects
-- 🌱 I’m currently working in the physics department, Isfahan University of Technology
-- 💞️ I’m looking to collaborate on any new research in observational astrophysics major
+- 👀 I’m interested in astrophysics in general, especially observational issues and subjects.
+- 🌱 I currently work in Physics Department, Isfahan University of Technology.
+- 💞️ I’m looking to collaborate on any new research in observational astrophysics major.
 - 📫 How to reach me:  sedighe.sajadian@gmail.com
 
 <!---
